@@ -6,9 +6,12 @@ app=Flask(__name__)
 
 def index():
 
-    return "starting Machien learning projec ts"
+    return "starting Machien learning projec "
 
 if  __name__=="__main__":
 
     app.run(debug=True)
 
+def poras():
+
+    pass
